@@ -1,4 +1,5 @@
 
+
 <h1 align="left">Hey 👋  I am Kratikpal</h1>
 
 ###
@@ -11,15 +12,18 @@
 
 ###
 
-- [AudioVibe](https://github.com/kratikpal/kp_music): Music app uses Youtube Explode to fetch music.
-	- Fetch music using Youtube Explode library. 
+- [AudioVibe](https://github.com/kratikpal/kp_music): REST API, Just Audio, Dart, Flutter
+	- Music app uses YouTube Explode to fetch music.
 	- Uses Just_audio package to play music.
-	- UI is designed using FLUTTER.
- - [AskIt](https://github.com/kratikpal/Kp_chat): Askit is an image generating and response bot.
-	- Seeks a response using the GPT 3 API. 
-	- Create an image with the DALLE API.
-	- UI is designed using FLUTTER.
-
+	- Fetch music using YouTube Explode library.
+ - [AskIt](https://github.com/kratikpal/Kp_chat):  GPT, DALLE, REST API, Permission handler
+	- Askit is an image generating and response bot.
+	- Seeks a response using the GPT 3 API.
+	- Create an image with the DALLE API
+ - [Video Post](https://github.com/kratikpal/video_post):  GPT, DALLE, REST API, Permission handler
+	 - A video sharing and posting app.
+	 - Mobile authentication for user accounts.
+	 - Stores videos on Firebase.
 
 ###
 
